@@ -8,6 +8,18 @@ sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc)
 ```
 ## Packages
 * [redshift](https://github.com/jonls/redshift)
+* [git](https://git-scm.com/)
+```
+sudo apt install git
+```
+* [snapd](https://snapcraft.io/store)
+```
+sudo apt install snapd
+```
+* [vscode](https://code.visualstudio.com/) via snap
+```
+sudo snap install --classic code
+```
 * [tmux](https://github.com/tmux/tmux/wiki)
 ```bash
 sudo apt install tmux
