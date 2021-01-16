@@ -8,6 +8,12 @@ sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc)
 ```
 ## Packages
 * [redshift](https://github.com/jonls/redshift)
+* sh
+```
+sudo apt install sh
+```
+* [ohmyzsh](https://ohmyz.sh/)
+* [p10k](https://github.com/romkatv/powerlevel10k)
 * [git](https://git-scm.com/)
 ```
 sudo apt install git
