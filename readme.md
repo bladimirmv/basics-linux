@@ -8,6 +8,9 @@ sudo add-apt-repository "deb http://archive.ubuntu.com/ubuntu $(lsb_release -sc)
 ```
 ## Packages
 * [redshift](https://github.com/jonls/redshift)
+```
+redshift -P -O 4000
+```
 * sh
 ```
 sudo apt install sh
