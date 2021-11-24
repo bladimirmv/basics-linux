@@ -55,4 +55,9 @@ flush privileges;
 
 select user, authentication_string, plugin, host from mysql.user;
 ```
+* php server example
+```
+php -S localhost:4000
+```
+
 * [spotify](https://www.spotify.com/us/download/linux/)
